@@ -1,0 +1,4 @@
+2023/08/01-10:19:36.666 6bfc Creating DB C:\Users\mathe\Desktop\whatsapp_bot\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb since it was missing.
+2023/08/01-10:19:36.669 6bfc Reusing MANIFEST C:\Users\mathe\Desktop\whatsapp_bot\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/08/01-10:19:36.777 6bfc Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/08/01-10:19:37.623 5260 Manual compaction at level-0 from '\x00\x07\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at (end)
